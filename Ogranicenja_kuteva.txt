@@ -1,0 +1,7 @@
+DYNamix1 <(desni rub)130°, 270°(lijevi rub)>		alpha
+Dynamix2 <359°(nulti položaj), 270°(donja granica)>	beta
+Dynamix3 <(nulti polozaj)1°, 150°(donja granica)>	gama
+
+x= 160 mm
+y= -70 mm
+z= 165.5 mm
